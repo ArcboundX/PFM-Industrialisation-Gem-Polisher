@@ -1,0 +1,26 @@
+Time Formats:
+[Normal to Silver], [Silver To Gold], [Gold to Iridium] = [Total Time] /// (Sell Price Range)
+[Product] 
+
+
+
+60, 240, 960 = 1260 /// (Below 50g)
+Limestone, Mudstone, Dwarf Scroll 1-4, Chipped Amphora, Arrowhead, Rusty Spoon, Rusty Spur, Rusty Cog, Ancient Seed, Dried Starfish, Glass Shards,   
+
+120, 480, 1920 = 2520 // (50g to below 200g)
+Topaz, Amethyst, Aquamarine, Aerinite, Alamite, Ancient Drum, Baryte, Basalt, Calcite, Celestine, Earth Crystal, Esperite, Fire Quartz, Geminite, Frozen Tear, Granite, Hematite, Jagoite, Jamborite, Jasper, Malachite, Marble, Nekoite, Opal, Orpiment, Petrified Slime, Pyrite, Sandstone, Slate, Soapstone, Thunder Egg, Dwarvish Helm, Ancient Doll, Chewing Stick, Chicken Statue, Ancient Sword, Prehistoric Tool, Anchor, Bone Flute, Prehistoric Handaxe, Prehistoric Scapula, Prehistoric Tibia, Prehistoric Skull, Skeletal Hand, Prehistoric Rib, Prehistoric Vertebra, 	Skeletal Tail, Nautilus Fossil, Amphibian Fossil, Palm Fossil, Trilobite
+
+240, 960, 3840 = 5040 /// (200g to 350g)
+Jade, Emerald, Ruby, Bixite, Dolomite, Dwarf Gadget, Fairy Stone, Fire Opal, Fluorapatite, Ghost Crystal, Kyanite, Lemon Stone, Lunarite, Obsidian, Ocean Stone, Tiger's Eye, Golden Relic, Elvish Jewelry, Rare Disc, Ornamental Fan, Dinosaur Egg
+
+300, 1200, 4800 = 6300 /// (450g to 500g)
+Helvite, Neptunite, Star Shards, Golden Mask
+
+480, 1920, 7680 = 10080 /// (Over 500g to below 2000g)
+Diamond, Strange Doll1, Strange Doll2
+
+720, 2880, 11520 = 15120/// (2000g +)
+Prismatic, Pearl, Golden Pumpkin
+
+1440, 5760, 23040 = 30240/// (5000g +)
+Treasure Chest
